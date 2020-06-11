@@ -1,0 +1,8 @@
+com/servapp/backend/controller/TipoCambioController.class
+com/servapp/backend/service/TipoCambioService.class
+com/servapp/backend/entity/Calcular.class
+com/servapp/backend/ServappBackendApiApplication.class
+com/servapp/backend/entity/TipoCambio.class
+com/servapp/backend/util/Util.class
+com/servapp/backend/service/impl/TipoCambioServiceImpl.class
+com/servapp/backend/request/RequestCalcular.class
