@@ -43,7 +43,7 @@ public class TipoCambioController {
     ResponseEntity<TipoCambio> getLast() throws Exception{
         TipoCambio tipoCambio = tipoCambioService.getLast();
         return new ResponseEntity<>(tipoCambio, HttpStatus.OK);
-    }
+    }//uno
 
     @RequestMapping(method = RequestMethod.POST)
     public @ResponseBody

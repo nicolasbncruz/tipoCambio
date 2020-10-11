@@ -1,8 +1,8 @@
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/ServappBackendApiApplication.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/service/impl/TipoCambioServiceImpl.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/service/TipoCambioService.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/controller/TipoCambioController.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/entity/Calcular.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/request/RequestCalcular.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/entity/TipoCambio.java
-/Users/nicolascruzcarpio/Documents/nicolasbncruz/src/main/java/com/servapp/backend/util/Util.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/controller/TipoCambioController.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/entity/TipoCambio.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/util/Util.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/ServappBackendApiApplication.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/request/RequestCalcular.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/service/TipoCambioService.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/entity/Calcular.java
+/Users/nicolascruzcarpio/Documents/repositorios/tipoCambio/src/main/java/com/servapp/backend/service/impl/TipoCambioServiceImpl.java
